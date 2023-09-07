@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ritchieiit
 - 👀 I’m interested in data science and cloud computing
-- 🌱 I’m currently learning python and machine learning
-- 💞️ I’m looking to collaborate on python and sql projects
+- 🌱 I’m currently learning machine learning
+- 💞️ I’m looking to collaborate on python, APEX and sql projects
 - 📫 How to reach me ...
 
 <!---
